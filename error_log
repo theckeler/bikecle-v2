@@ -1,0 +1,32 @@
+[16-Nov-2019 17:03:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/404.php on line 1
+[18-Nov-2019 12:54:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/404.php on line 1
+[14-Dec-2019 06:13:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/404.php on line 1
+[16-Dec-2019 06:37:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/404.php on line 1
+[14-Jan-2020 00:42:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/404.php on line 1
+[16-Jan-2020 02:09:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/404.php on line 1
+[08-Mar-2021 02:50:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/index.php on line 1
+[08-Mar-2021 04:34:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bikeclev/public_html/v2.bikecleveland.org/wp-content/themes/bikecle-v2/index.php on line 1
