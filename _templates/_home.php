@@ -2,11 +2,14 @@
 
 <? get_header(); ?>
 
-<div class="content page-top hero-img img-id-">
-	<a class="ten-year-button" href="/10years/"><img src="https://www.bikecleveland.org/wp-content/uploads/2021/06/BC-LandingPage-Banner-1920x240-Vector-button.svg" class="attachment-full size-full" alt="" loading="lazy"></a>
-	<?php echo wp_get_attachment_image(8545, 'full'); ?>
-</div>
-
+<?
+while (have_posts()) : the_post();
+	$fields = $cfs->get();
+?>
+	<?php the_content(); ?>
+<?
+endwhile;
+?>
 
 <div class="content sponsors-home max-width">
 	<h1>Sponsors & Supporters</h1>
